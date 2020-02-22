@@ -1,0 +1,13 @@
+{
+  "name": "Training center  backend meeting room booking",
+  "version": "0.1.0",
+  "description": "API Documentation for tc-backend-mrbooking",
+  "title": "Training center  backend meeting room booking",
+   "header": {
+    "title": "backend meeting room booking"
+  },
+   "template": {
+    "withCompare": true,
+    "withGenerator": true
+  }
+}
